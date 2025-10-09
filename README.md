@@ -2,6 +2,13 @@
 Benchmarking AutoML solutions for streaming classification with a standardized online evaluation methodology.
 
 
+Repository hosted at below Github repo <br>
+https://github.com/DataSystemsGroupUT/Towards-Sustainable-and-Scalable-AutoML-for-Data-Streams-A-Multi-Metric-Benchmarking-Study
+In order download repository either by using GUI of Github by click 'Code' button then 'Download zip' button or by using below cli command 
+```
+git clone https://github.com/DataSystemsGroupUT/Towards-Sustainable-and-Scalable-AutoML-for-Data-Streams-A-Multi-Metric-Benchmarking-Study
+```
+
 # Requirements:
 - Operating System: Linux (experiments run on RHEL9, analysis of results on Debian 12)  
 - Conda (Miniconda or Anaconda)
